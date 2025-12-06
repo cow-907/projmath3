@@ -1,0 +1,5 @@
+{
+  "name": "Dijkstra Visualizer",
+  "description": "An interactive dashboard visualizing Dijkstra's algorithm to find the nearest motorcycle taxi driver.",
+  "requestFramePermissions": []
+}
